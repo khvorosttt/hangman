@@ -8,7 +8,6 @@ const letters = [
     'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U',
     'V', 'W', 'X', 'Y', 'Z'
 ];
-// const info = [{question: '', answer:''}];
 let clickedLetters;
 let numberQuestion = -1;
 let incorrectGuesses;
