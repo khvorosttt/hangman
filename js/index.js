@@ -1,4 +1,5 @@
-import info from '../data/questionsAnswers.json' assert { type: "json" };
+import info from '../data/questionsAnswers.json' with { type: 'json' };
+;
 import gameHTML from './initGameHTML.js';
 import modal from './modal.js';
 
@@ -7,6 +8,7 @@ const letters = [
     'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U',
     'V', 'W', 'X', 'Y', 'Z'
 ];
+// const info = [{question: '', answer:''}];
 let clickedLetters;
 let numberQuestion = -1;
 let incorrectGuesses;
