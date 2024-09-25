@@ -6,3 +6,5 @@ During the game, there are 6 possible incorrect answers. For each incorrect answ
 You win if you guess all the letters in the word before the gallows is completely drawn.
 
 Start playing [HANGMAN](https://khvorosttt.github.io/hangman/)
+![image](https://github.com/user-attachments/assets/e9eb3935-f907-46a1-8851-4c3ca16e79a5)
+
